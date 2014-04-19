@@ -1,7 +1,7 @@
 package run;
 
-import programs.Add;
-import programs.Id;
+import functions.Add;
+import functions.Id;
 import values.Int;
 
 public class Main {
